@@ -4,4 +4,4 @@ Pac-Man is an action[ maze chase video game; the player controls the eponymous c
 
 
 
-![](screens_pacman/.png)
+![](screen_pacman/pacman.jpeg)
